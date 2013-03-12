@@ -6,11 +6,9 @@ gem 'rails', '3.2.12'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-
-gem 'nifty-generators'
-
 gem 'geocoder'
-
+gem 'pg', '0.12.2'
+gem 'bootstrap-sass', '2.1'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -40,3 +38,4 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+# gem 'nifty-generators'
